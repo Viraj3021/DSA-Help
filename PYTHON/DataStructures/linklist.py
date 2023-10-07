@@ -10,7 +10,7 @@ class Node:
         self.value = value
         self.next = None
     
-class linklist:             # This is Circular linked list // change line 32 for singly linked list
+class linklist:             # This is a Circular linked list // change line 32 for singly linked list
     def __init__(self):
         self.head = None
         self.tail = None
